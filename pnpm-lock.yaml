@@ -1,6 +1,7 @@
 lockfileVersion: 5.4
 
 specifiers:
+  3d-earth: 'link:'
   '@antfu/eslint-config': ^0.38.4
   '@commitlint/cli': ^17.6.1
   '@commitlint/config-conventional': ^17.6.1
@@ -37,6 +38,7 @@ specifiers:
   vue-router: ^4.1.6
 
 dependencies:
+  3d-earth: 'link:'
   pinia: registry.npmmirror.com/pinia/2.0.34_vue@3.2.47
   three: registry.npmmirror.com/three/0.151.3
   vue: registry.npmmirror.com/vue/3.2.47

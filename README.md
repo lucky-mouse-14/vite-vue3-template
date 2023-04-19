@@ -5,3 +5,34 @@ This template should help get you started developing with Vue 3 in Vite. The tem
 ## Recommended IDE Setup
 
 - [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+
+## 安装使用
+
+- 环境配置
+  **本地环境需要安装 pnpm 7.x 、Node.js 14.18+ 和 Git**
+
+- 克隆代码
+
+```bash
+git clone https://gitclone.com/github.com/lucky-mouse-14/vite-vue3-template.git
+```
+
+- 安装依赖
+
+```bash
+pnpm i
+```
+
+- 运行
+
+```bash
+pnpm dev
+or
+pnpm serve
+```
+
+- 打包
+
+```bash
+pnpm build:prod
+```

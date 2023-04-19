@@ -22,6 +22,7 @@
     }
   },
   "dependencies": {
+    "3d-earth": "link:",
     "pinia": "^2.0.34",
     "three": "^0.151.3",
     "vue": "^3.2.47",
